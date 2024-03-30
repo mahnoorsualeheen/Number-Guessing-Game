@@ -1,0 +1,19 @@
+{
+  "name": "mmsc-number-guessing-game",
+  "version": "1.0.4",
+  "description": "This is a simple CLI base Number Gussing game using Typescript, Node.js.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahnoor Malik",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
